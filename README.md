@@ -1,7 +1,7 @@
 # React.js
 1 October 2024
 
-React is build around the consept of components, which are the buidling blocks of react applications , these components allow you to break down the user interface into smaller , reusable pieces , that handle there own state and logic .
+React is build around the concept of components, which are the buidling blocks of react applications , these components allow you to break down the user interface into smaller , reusable pieces , that handle there own state and logic .
 
 JSX(JavaScript XML) is the syntax used within REACT to describe what the UI should look like.
 
